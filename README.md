@@ -1,12 +1,10 @@
 # 概要
 
-#### VSCodeデバッグ用 server.js
+#### GitHubからの自動デプロイ
 
-VSCodeのデバッグ（node.js）を行う際の定義ファイルです。
+GitHubのWebHookを使用して、自動的にサーバに更新資産を反映させるスクリプトです。
 
 #### 動作環境
 
-    - VSCode
-    - Nodejsがインストールされていること
 
 
